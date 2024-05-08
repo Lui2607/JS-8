@@ -1,0 +1,16 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Comic Sans MS';
+
+}
+
+.m-0 {
+    color:royalblue;
+
+}
+.card-footer {
+    background-color:azure;
+}
+.card-header {
+    background-color: azure;
+}
